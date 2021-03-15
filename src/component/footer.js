@@ -47,7 +47,7 @@ return(
 
     <div className="clr"></div>
     <hr />
-    <p id="copyright">&copy; 2020 Watch for you - All Rights reserved - Harsh Ranpariya 
+    <p id="copyright">&copy; 2021 Watch for you - All Rights reserved - Harsh Ranpariya 
         <span id="social">
             <i className="fab fa-facebook-square fa-2x"></i>
             <i className="fab fa-instagram-square fa-2x"></i>
